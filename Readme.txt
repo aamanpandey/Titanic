@@ -1,5 +1,5 @@
 
-Dataset: Housprice
+Dataset: Titanic
 
 Key Points:
 
@@ -12,8 +12,8 @@ ML Algo used:
 • Linear Support Vector Machine
 • Kernelized Support Vector Machine (rbf, polynomial and sigmoid kernels)
 • Decision Tree classification
-• Two models with Bagging (best model from HW2 and Decision Tree)
-• Two models with Pasting (best model from HW2 and Decision Tree)
+• Two models with Bagging 
+• Two models with Pasting 
 • Random Forest
 • Ada Boost 
 • Gradient Boost 
